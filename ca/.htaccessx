@@ -1,0 +1,5 @@
+AuthType Basic
+AuthName "By Invitation Only"
+AuthUserFile /home/doseok/htpasswd
+Require valid-user
+

@@ -1,0 +1,4 @@
+  AuthType Basic
+  AuthName "Secure Content"
+  AuthUserFile /var/www/html/.htpasswd
+  require valid-user

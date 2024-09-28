@@ -1,0 +1,12 @@
+.thead { font-family: "Arial", "Helvetica", "sans-serif"; font-size: 10pt; background-color: #EEEEEE; border: 0px white none; border-width: 0px 0px thin; border-color: white white white}
+.tdata { font-family: "Arial", "Helvetica", "sans-serif"; font-size: 10pt; background-color: #FFFFFF; border: 0px white none; border-width: 0px 0px thin; border-color: white white black}
+.cell  { font-family: "Arial", "Helvetica", "sans-serif"; font-size: 10pt; background-color: #EEEEEE; border: 0px white none; border-width: 0px 0px thin; border-color: white white black}
+.inbox { background-color: #FFFFCC; border-color: blue; list-style-position: inside; border-style: none; border-bottom-width: thin; text-align: left; font-family: "Arial", "Helvetica", "sans-serif"; font-size: 10pt; text-decoration: none; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}
+.on_focus { background-color: #FFFFCC; border-color: blue; list-style-position: inside; border-style: none; border-bottom-width: thin; text-align: left; font-family: "Arial", "Helvetica", "sans-serif"; font-size: 10pt; text-decoration: none; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}
+.out_focus { background-color: white; border-color: blue; list-style-position: inside; border-style: none; border-bottom-width: thin; text-align: left; font-family: "Arial", "Helvetica", "sans-serif"; font-size: 10pt; text-decoration: none; padding-top: 0px; padding-right: 0px; padding-bottom: 0px; padding-left: 0px}
+
+a:link { color: orange; text-decoration: none; font-family: "Arial", "Helvetica", "sans-serif"; font-size: 11pt; }
+a:hover { color: yellow; text-decoration: none; font-family: "Arial", "Helvetica", "sans-serif"; font-size: 11pt; }
+a:visited { color: orange; text-decoration: none; font-family: "Arial", "Helvetica", "sans-serif"; font-size: 11pt; }
+a:active { color: orange; text-decoration: none; font-family: "Arial", "Helvetica", "sans-serif"; font-size: 11pt; }
+
