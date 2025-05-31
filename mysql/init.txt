@@ -1,4 +1,0 @@
-CREATE USER 'doseok'@'localhost' IDENTIFIED BY 'kim7795004';
-CREATE USER 'doseok'@'%' IDENTIFIED BY 'kim7795004';
-GRANT ALL ON *.* TO 'doseok'@'localhost' WITH GRANT OPTION;
-GRANT ALL ON *.* TO 'doseok'@'%' WITH GRANT OPTION;
